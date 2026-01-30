@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+:root{
+    --color0:#ffff;
+    --color1:#0000;
+    --color2:#2973B2;
+    --color3:#48A6A7;
+    --color4:#9ACBD0;
+    --color5:#F2EFE7;
+}
+
+.dflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dflexcolumn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
