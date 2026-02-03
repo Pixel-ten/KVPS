@@ -6,7 +6,7 @@ miniNav.addEventListener("click",function(){
     navBtncontainer.style.display = "flex";
     navBtncontainer.style.flexDirection = "column";
     navBtncontainer.style.position = "absolute";
-    navBtncontainer.style.top = "0px";
-    navBtncontainer.style.left = "0px";
+    // navBtncontainer.style.top = "0px";
+    // navBtncontainer.style.left = "0px";
     
 });
